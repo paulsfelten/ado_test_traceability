@@ -1,0 +1,1 @@
+ADO is missing a very large QA functionality - being able to see complete traceability from User Stories/Bugs to Test Cases to Test Plans (test executions). This traceability is paramount for preventing test gaps and ensuring accountability without making others manually update spreadsheets.
